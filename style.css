@@ -1,0 +1,35 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+input {
+  width: 75px;
+}
+
+button, input[type="text"] {
+  padding: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 10px;
+  max-width: 500px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.error-message {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
